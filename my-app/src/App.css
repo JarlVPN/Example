@@ -214,11 +214,11 @@ height: 50px;
 .logo1 {
   background: url(./images/logo1.png);
   bottom: 150px;
-  height: 431px;
+  height: 201px;
   position: absolute;
-  width: 384px;
+  width: 284px;
   display: flex;
-  right: 250px;
+  right: 20px;
   
 }
 
